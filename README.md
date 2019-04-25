@@ -1,6 +1,6 @@
 # self-driving-car
 
-download Udacity self driving cr simulator: https://github.com/udacity/self-driving-car-sim
+download Udacity self driving car simulator: https://github.com/udacity/self-driving-car-sim
 
 <p>open anaconda prompt and creeate a new environment by typing 'conda create --name myenviron'</p>
 
